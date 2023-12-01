@@ -58,3 +58,7 @@ The Power BI reports have been designed to showcase various aspects of cricket p
 ## Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
+
+
+![image](https://github.com/masteradios/cricket-analysis/assets/110710412/5d707756-b796-401c-9f61-16d7710fba92)
+
