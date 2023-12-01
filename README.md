@@ -59,6 +59,14 @@ The Power BI reports have been designed to showcase various aspects of cricket p
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
 
-
+## Openers analysis:
 ![image](https://github.com/masteradios/cricket-analysis/assets/110710412/5d707756-b796-401c-9f61-16d7710fba92)
+
+## Middle Order analysis:
+![image](https://github.com/masteradios/cricket-analysis/assets/110710412/8906951f-b413-4ca4-ab01-de55a86d5e3f)
+
+## Low Order analysis:
+![image](https://github.com/masteradios/cricket-analysis/assets/110710412/d62dca4a-ed06-48aa-a2f8-af33846978ba)
+
+
 
